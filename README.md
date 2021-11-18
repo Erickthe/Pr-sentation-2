@@ -1,4 +1,4 @@
-# Comment assembler un PC
+# **Comment assembler un PC**
 
 ## Le matériel nécessaire
 
@@ -7,3 +7,5 @@
 ## L'assemblage du Pc
 
 ###### Première étape: Il faut absolument construire sa tour sur une surface non métallique pour éviter une accumulation d'électricité statique. Une table en bois dans un espace comfortable fera l'affaire.
+
+L'installation du processeur. 
