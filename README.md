@@ -1,4 +1,4 @@
-# **Comment assembler un PC**
+# Comment assembler un PC
 
 ## Le matériel nécessaire
 
